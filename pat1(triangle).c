@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a=0,r=0,o=0,w=0,x,y,z,sum=0,i=3;
+    int a=0,r=0,o=0,w=0,x,y,z,sum=0,i=5;
     while(i!=0){
         scanf("%d",&x);
         scanf("%d",&y);
