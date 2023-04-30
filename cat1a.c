@@ -21,7 +21,7 @@ int frequency(char s[]){
             j++;
         }
     }
-    ori[j] = '\0'; // add null terminator to end of string
+    ori[j] = '\0';
     int lo = strlen(ori);
     printf("Word frequency is: %d\n",lo);
     char frc;
